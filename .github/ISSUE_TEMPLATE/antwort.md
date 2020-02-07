@@ -2,7 +2,7 @@
 name: Antwort
 about: Nimm diese Vorlage, wenn du eine Frage komplett beantwortet hast und Rückmeldung haben möchtest!
 title: 'Antwort zu Frage: <Name der Frage z.B. WPF-1>'
-labels: ''
+labels: 'answer'
 assignees: ''
 
 ---
