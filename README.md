@@ -10,7 +10,7 @@ Mehr Details wie du mit diesen Fragen arbeiten kannst und Rückmeldung bekommst 
   </a>
 </p>
 
-**WICHTIG:** Deine Antworten und/oder Lösungsansätze kannst du [hier](https://github.com/LernMoment/community-fragen/issues) mit mir und anderen aus der LernMoment-Community diskutieren.
+**WICHTIG:** Deine Antworten und/oder Lösungsansätze kannst du [hier](https://github.com/LernMoment/community-fragen/issues/new/choose) mit mir und anderen aus der LernMoment-Community diskutieren.
 
 Viel Spaß beim üben und los gehts:
 
