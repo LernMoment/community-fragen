@@ -34,3 +34,18 @@ Durch weitere Fragen habe ich heraus gefunden, dass Markus mit dem Klick auf ein
 Es gibt die Klasse [`Process`](https://docs.microsoft.com/de-de/dotnet/api/system.diagnostics.process?view=netframework-4.8) mit der eine beliebige Anwendung auf deinem Rechner gestartet werden kann.
 </p>
 </details>
+
+## Allgemeine Fragen
+
+### ALL-1: Kann ich eine Konsolenanwendung von einer externen Festplatte starten?
+
+> Kann ich mir das Programm auch auf eine externe Festplatte runterladen? Hat das Programm dann weiterhin Adminrechte, wenn ich das ausgewählt habe? - [Bejam](https://www.youtube.com/watch?v=xhD1HCVj5V0&lc=UgxWkxvm6x__LIZ1YYF4AaABAg)
+
+Diese Frage wurde im Kontext des [Visual Studio 2019 Tutorials](https://youtu.be/xhD1HCVj5V0) gestellt. Bei "dem Programm" handelt es sich um ein einfaches *Hallo Welt* als .NET Core Konsolenanwendung. Als Ergänzung zu dieser Frage kannst du auch gerne ausprobieren ob es zwischen *.NET Core* und *.NET Framework* irgendwelche Unterschiede gibt.
+Der Teil mit den "Adminrechten" ist mir nicht ganz klar. Also was Bejam damit meint. Wenn du eine Idee hast bzw. eine Antwort hast bin ich sehr darauf gespannt.
+
+### ALL-2: Wie kann ich ein Projekt mit Git-Versionieren in VisualStudio 2019?
+
+> Sehr gutes Video! Aber ich kann den Haken zum Erstellen einer Git Repo nicht finden. Das könnte daran liegen, dass der gesamte Erstellendialog in Visual Studio 2019 geändert wurde. Weißt Du zufällig, wo man den in VS 2019 findet? - [Ti Fusberger](https://www.youtube.com/watch?v=V_IDzTNA_ns&lc=UgzLHzBOjSevEnEbmBR4AaABAg)
+
+Zwischen VisualStudio 2017 und 2019 hat Microsoft den Weg geändert wie du Projekte zu Git hinzufügen kannst. In Visual Studio 2017 gab es die Möglichkeit direkt während der Projekterstellung zusagen, dass das Projekt mit Git verwaltet werden soll. Das hat sich in VS2019 geändert. Wie geht es nun?
