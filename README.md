@@ -7,7 +7,7 @@ Viel Spaß beim üben und los gehts:
 
 ## Fragen zu WPF
 
-### Wie öffne ich ein "Unterfenster"?
+### WPF-1: Wie öffne ich ein "Unterfenster"?
 
 > Danke für das sehr gute Video. mich würde interessieren, wie man verschiedene Frames "schalten" kann. Von einem Fenster in ein Unterfenster. die abhängig von einander sind. z.B ein unterframe in dem die Eigenschaften " farbe..." vom Ball eingestellt werden können. vielleicht ist es möglich darauf einzugehen. Danke. - [Peter](https://www.youtube.com/watch?v=ugji-_yWoRk&lc=UgzPS-jGhK0mC8dj_pp4AaABAg)
 
@@ -22,7 +22,7 @@ Nun kannst du im `MainWindow` einen neuen Button einfügen. Im Eventhandler dazu
 </details>
 
 
-### Wie kann ich den Datei-Explorer durch Klick auf einen Button öffnen?
+### WPF-2: Wie kann ich den Datei-Explorer durch Klick auf einen Button öffnen?
 
 > Hi ich bin grad dabei mit WPF etwas zu probieren und wollte mir grad so ein kleines Programm machen das einen Dateipfad öffnet. jedoch finde ich keine aktuelle Möglichkeit wie man einen Dateipfad öffnen kann. (C:\desktop\<Ortner>) Würde mich freuen wenn du mir helfen könntest. - [Markus](https://www.youtube.com/watch?v=ugji-_yWoRk&lc=Ugw10Rj-RRskacV0PT54AaABAg)
 
