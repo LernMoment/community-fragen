@@ -3,6 +3,13 @@ Gerade wenn du autodidaktisch lernst und keinen Mentor, Kollegen oder Lerngruppe
 
 Um genau diesen Prozess zu forcieren habe ich dieses Projekt hier erstellt. Aus Kommentaren an YouTube-Videos und Fragen in meinen [Online-Kursen](https://www.lernmoment.de/kurse/) sammele ich hier die Fragen die sich gut zum Lernen eignen. Zusätzlich werde ich nach und nach dazu selber meine Antwort geben und sofern sinnvoll auch passenden Quellcode veröffentlichen.
 
+Mehr Details wie du mit diesen Fragen arbeiten kannst und Rückmeldung bekommst gebe ich dir in diesem Video (https://youtu.be/r2HHQ_xvaxI):
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=r2HHQ_xvaxI">
+    <img src="https://img.youtube.com/vi/r2HHQ_xvaxI/0.jpg">
+  </a>
+</p>
+
 Viel Spaß beim üben und los gehts:
 
 ## Fragen zu WPF
