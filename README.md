@@ -1,4 +1,4 @@
-# C# Fragen aus LernMoment Community für dich zum Lernen
+# C# Fragen aus der LernMoment-Community für dich zum Lernen
 Gerade wenn du autodidaktisch lernst und keinen Mentor, Kollegen oder Lerngruppe hast, fehlt dir Rückmeldung beim Lernen. Als (momentan noch nicht vollwertigen) Ersatz kannst du sehr gut Fragen verwenden. D.h. du schaust dir an was andere Einsteiger in C# für Fragen haben und versuchst diese für dich zu beantworten. Wenn du eine Frage sicher beantworten kannst, weißt du, dass du das Thema verstanden hast. Wenn nicht, dann merkst du an welcher Stelle es hakt.
 
 Um genau diesen Prozess zu forcieren habe ich dieses Projekt hier erstellt. Aus Kommentaren an YouTube-Videos und Fragen in meinen [Online-Kursen](https://www.lernmoment.de/kurse/) sammele ich hier die Fragen die sich gut zum Lernen eignen. Zusätzlich werde ich nach und nach dazu selber meine Antwort geben und sofern sinnvoll auch passenden Quellcode veröffentlichen.
