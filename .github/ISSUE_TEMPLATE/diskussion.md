@@ -2,7 +2,7 @@
 name: Diskussion / Lösungsansatz
 about: Nimm diese Vorlage, wenn du noch keine vollständige Antwort hast und Hilfe brauchst!
 title: 'Diskussion/Lösungsansatz zur Frage: <Name der Frage z.B. WPF-1>'
-labels: ''
+labels: 'help wanted'
 assignees: ''
 
 ---
