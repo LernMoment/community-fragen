@@ -10,7 +10,7 @@ Mehr Details wie du mit diesen Fragen arbeiten kannst und Rückmeldung bekommst 
   </a>
 </p>
 
-**WICHTIG:** Deine Antworten und/oder Lösungsansätze kannst du [hier](https://github.com/LernMoment/community-fragen/issues/new/choose) mit mir und anderen aus der LernMoment-Community diskutieren.
+**WICHTIG:** Deine Antworten und/oder Lösungsansätze kannst du [hier](https://github.com/LernMoment/community-fragen/issues/new/choose) mit mir und anderen aus der LernMoment-Community diskutieren. Eine Beispielantwort findest du [hier](https://github.com/LernMoment/community-fragen/issues/1).
 
 Viel Spaß beim üben und los gehts:
 
@@ -52,6 +52,8 @@ Es gibt die Klasse [`Process`](https://docs.microsoft.com/de-de/dotnet/api/syste
 
 Diese Frage wurde im Kontext des [Visual Studio 2019 Tutorials](https://youtu.be/xhD1HCVj5V0) gestellt. Bei "dem Programm" handelt es sich um ein einfaches *Hallo Welt* als .NET Core Konsolenanwendung. Als Ergänzung zu dieser Frage kannst du auch gerne ausprobieren ob es zwischen *.NET Core* und *.NET Framework* irgendwelche Unterschiede gibt.
 Der Teil mit den "Adminrechten" ist mir nicht ganz klar. Also was Bejam damit meint. Wenn du eine Idee hast bzw. eine Antwort hast bin ich sehr darauf gespannt.
+
+Eine "Musterlösung" zu dieser Frage habe ich [hier](https://github.com/LernMoment/community-fragen/issues/1) veröffentlicht.
 
 ### ALL-2: Wie kann ich ein Projekt mit Git-Versionieren in VisualStudio 2019?
 
