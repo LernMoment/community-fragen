@@ -30,6 +30,7 @@ Nun kannst du im `MainWindow` einen neuen Button einfügen. Im Eventhandler dazu
 </p>
 </details>
 
+Eine "Musterantwort" zu dieser Frage habe ich [hier](https://github.com/LernMoment/community-fragen/issues/3) veröffentlicht. Eine Beispielanwendung die das Verhalten zeigt findest du [hier](https://github.com/LernMoment/community-fragen/tree/master/WPF-1/WPF1-Unterfenster).
 
 ### WPF-2: Wie kann ich den Datei-Explorer durch Klick auf einen Button öffnen?
 
