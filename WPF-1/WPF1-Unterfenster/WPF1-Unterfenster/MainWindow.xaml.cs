@@ -25,13 +25,13 @@ namespace WPF1_Unterfenster
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void OpenWindowButton_Click(object sender, RoutedEventArgs e)
         {
             SubWindow sub = new SubWindow();
             sub.Show();
         }
 
-        private void Button_Click_1(object sender, RoutedEventArgs e)
+        private void OpenDialogButton_Click(object sender, RoutedEventArgs e)
         {
             SubWindow sub = new SubWindow();
             sub.ShowDialog();
