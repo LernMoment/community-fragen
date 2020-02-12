@@ -1,0 +1,12 @@
+﻿<Window x:Class="WPF1_Unterfenster.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF1_Unterfenster"
+        mc:Ignorable="d"
+        Title="Community Fragen - WPF-1" Height="287" Width="460" Background="#00A8C6">
+    <Grid>
+
+    </Grid>
+</Window>
