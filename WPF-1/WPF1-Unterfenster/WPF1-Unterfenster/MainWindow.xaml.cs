@@ -28,6 +28,8 @@ namespace WPF1_Unterfenster
         private void OpenWindowButton_Click(object sender, RoutedEventArgs e)
         {
             SubWindow sub = new SubWindow();
+            // Sorgt dafür, dass das sub geschlossen wird, wenn das MainWindow geschlossen wird!
+            sub.Owner = this;
             sub.Show();
         }
 
