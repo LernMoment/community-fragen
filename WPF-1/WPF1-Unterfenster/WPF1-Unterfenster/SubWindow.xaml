@@ -1,0 +1,18 @@
+﻿<Window x:Class="WPF1_Unterfenster.SubWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF1_Unterfenster"
+        mc:Ignorable="d"
+        Title="Unterfenster für WPF-1" Height="249" Width="470" Background="#F9F2E7">
+    <Grid>
+        <TextBlock Text="Hier könnten die Elemente für die Einstellungen im" Margin="88,88,0,0" Foreground="#00A8C6" FontWeight="Bold"/>
+        <TextBlock Margin="175,110,0,0" Foreground="#00A8C6" FontWeight="Bold">
+            <Hyperlink NavigateUri="https://github.com/LernMoment/ballspiel" RequestNavigate="Hyperlink_RequestNavigate">
+                BallSpiel Projekt
+            </Hyperlink>
+        </TextBlock>
+        <TextBlock Text="angezeigt werden." Margin="170,130,0,0" Foreground="#00A8C6" FontWeight="Bold"/>
+    </Grid>
+</Window>
