@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Community Fragen - WPF-1" Height="287" Width="460" Background="#00A8C6">
     <Grid>
-        <Button Content="Zusätzliches Fenster öffnen" HorizontalAlignment="Center" Margin="0,88,0,0" VerticalAlignment="Top" Background="#F9F2E7" Click="Button_Click"/>
-
+        <Button Content="Zusätzliches Fenster öffnen" HorizontalAlignment="Center" Margin="0,111,0,0" VerticalAlignment="Top" Background="#F9F2E7" Click="Button_Click"/>
+        <Button Content="Fenster als Dialog öffnen" HorizontalAlignment="Center" Margin="0,136,0,0" VerticalAlignment="Top" Background="#F9F2E7" Click="Button_Click_1"/>
     </Grid>
 </Window>
