@@ -61,3 +61,5 @@ Eine "Musterantwort" zu dieser Frage habe ich [hier](https://github.com/LernMome
 > Sehr gutes Video! Aber ich kann den Haken zum Erstellen einer Git Repo nicht finden. Das könnte daran liegen, dass der gesamte Erstellendialog in Visual Studio 2019 geändert wurde. Weißt Du zufällig, wo man den in VS 2019 findet? - [Ti Fusberger](https://www.youtube.com/watch?v=V_IDzTNA_ns&lc=UgzLHzBOjSevEnEbmBR4AaABAg)
 
 Zwischen VisualStudio 2017 und 2019 hat Microsoft den Weg geändert wie du Projekte zu Git hinzufügen kannst. In Visual Studio 2017 gab es die Möglichkeit direkt während der Projekterstellung zusagen, dass das Projekt mit Git verwaltet werden soll. Das hat sich in VS2019 geändert. Wie geht es nun?
+
+Die Antwort dazu findest du in meinem Artikel [Versionskontrolle mit Git und Visual Studio 2019](https://www.lernmoment.de/alle/git-mit-visual-studio-2019/).
