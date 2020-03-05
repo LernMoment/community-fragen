@@ -69,3 +69,7 @@ Die Antwort dazu findest du in meinem Artikel [Versionskontrolle mit Git und Vis
 ### SYN-1: Wie kann ich einen String in ein Char-Array wandeln?
 
 > ToBeDone
+
+Der Fragende lernt gerade einiges zum Thema `string` und möchte mithilfe des *Array-Operators* (also eckige Klammern) einen `string` in ein `char`-Array konvertieren. Hast du eine Ahnung wie das geht?
+
+Meine Antwort dazu findest du [hier](https://github.com/LernMoment/community-fragen/issues/5);
