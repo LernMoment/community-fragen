@@ -63,3 +63,9 @@ Eine "Musterantwort" zu dieser Frage habe ich [hier](https://github.com/LernMome
 Zwischen VisualStudio 2017 und 2019 hat Microsoft den Weg geändert wie du Projekte zu Git hinzufügen kannst. In Visual Studio 2017 gab es die Möglichkeit direkt während der Projekterstellung zusagen, dass das Projekt mit Git verwaltet werden soll. Das hat sich in VS2019 geändert. Wie geht es nun?
 
 Die Antwort dazu findest du in meinem Artikel [Versionskontrolle mit Git und Visual Studio 2019](https://www.lernmoment.de/alle/git-mit-visual-studio-2019/).
+
+## Syntax Fragen
+
+### SYN-1: Wie kann ich einen String in ein Char-Array wandeln?
+
+> ToBeDone
