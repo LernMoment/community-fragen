@@ -73,3 +73,14 @@ Die Antwort dazu findest du in meinem Artikel [Versionskontrolle mit Git und Vis
 Der Fragende lernt gerade einiges zum Thema `string` und möchte mithilfe des *Array-Operators* (also eckige Klammern) einen `string` in ein `char`-Array konvertieren. Hast du eine Ahnung wie das geht?
 
 Meine Antwort dazu findest du [hier](https://github.com/LernMoment/community-fragen/issues/5);
+
+## Fragen zum Thema Testen
+
+### TES-1: Wie sollten private Methoden einer Klasse getestet werden?
+
+>Hallo Jan, beim Unit Test habe ich die Möglichkeit öffentliche Methoden einer Klasse zu testen. Was ist aber mit den privaten Methoden die es in der gleichen Klasse gibt? Ignoriert man diese beim Test, weil diese indirekt mit den öffenlichen mit getestet werden oder wie geht man damit um? - [Markus](https://www.udemy.com/course/einstieg-in-csharp-software-programmieren-wie-ein-profi/?referralCode=73784B79162D93219DEC)
+
+Das ist eine wirklich coole Frage von Markus! Er nimmt an einem Online-Kurs "Einstieg in C#" teil und hat sich gerade mit dem Thema automatische Unit-Tests beschäftigt. Dabei kommt man früher oder später zu dem Punkt eine möglichst hohe Testabdeckung zubekommen.
+
+Meine Antwort dazu findest du [hier](https://github.com/LernMoment/community-fragen/issues/6)
+
