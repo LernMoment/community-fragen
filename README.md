@@ -68,7 +68,16 @@ Die Antwort dazu findest du in meinem Artikel [Versionskontrolle mit Git und Vis
 
 ### SYN-1: Wie kann ich einen String in ein Char-Array wandeln?
 
-> ToBeDone
+> ich habe mal eine Frage und zwar habe ich probiert einzelne Zeichen von dem string in ein Array zu packen, nur bekomme ich Fehler. Ich hoffe du kannst mir helfen. Im folgenden noch mein Code. - [David](https://www.youtube.com/watch?v=HbZTrkIE9Io&lc=UgySK2NJhsZ6GwgzBiZ4AaABAg)
+
+```csharp
+string[] sUD = new string[8];
+string text = Console.ReadLine();
+for (int x = 0; x <= 7; x++)
+{
+    char sUD[x] = text[x];
+}
+```
 
 Der Fragende lernt gerade einiges zum Thema `string` und möchte mithilfe des *Array-Operators* (also eckige Klammern) einen `string` in ein `char`-Array konvertieren. Hast du eine Ahnung wie das geht?
 
