@@ -45,6 +45,36 @@ Es gibt die Klasse [`Process`](https://docs.microsoft.com/de-de/dotnet/api/syste
 </p>
 </details>
 
+### WPF-3: Wie sollten Controls in XAML benannt werden?
+
+> Hallo Jan,
+> Du beginnst die Benennung, also `x:Name ...`, immer mit Großbuchstabe. Auf der Microsoft-Seite habe ich es mit Kleinbuchstaben gesehen. Ist das egal oder gibt es da eine Richtlinie? - [Marco](https://github.com/LernMoment/tictactoe-wpf/commit/af4ce60c5989d4a7fd1c22ed4ce85ee2612a6853#commitcomment-38068156)
+
+Hier ein Beispiel aus meinem *XAML*-Code:
+```xml
+<Grid x:Name="Spielfeld">
+  <Button x:Name="Kasten_0_0" Grid.Column="0" Grid.Row="0" Content="X"/>
+  <Button x:Name="Kasten_1_0" Grid.Column="1" Grid.Row="0" Content="O"/>
+</Grid>
+```
+Und so sieht es bei Microsoft Docs aus:
+```xml
+<Button x:Name="btn1" Background="Pink" 
+        BorderBrush="Black" BorderThickness="1" 
+        Click="OnClick1" ClickMode="Hover">
+  ClickMe1
+</Button>
+
+<Button x:Name="btn2" Background="LightBlue" 
+        BorderBrush="Black" BorderThickness="1" 
+        Click="OnClick2" ClickMode="Press">
+  ClickMe2
+</Button>
+```
+In Ergänzung zu Marcos Frage würde ich gerne von dir wissen:
+1. Warum ist eine konsistente Namensgebung und Schreibweise wichtig?
+2. Würdest du den Namen eines `Controls` mit einem Groß- oder Kleinbuchstaben beginnen und warum?
+
 ## Allgemeine Fragen
 
 ### ALL-1: Kann ich eine Konsolenanwendung von einer externen Festplatte starten?
