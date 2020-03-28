@@ -75,6 +75,8 @@ In Ergänzung zu Marcos Frage würde ich gerne von dir wissen:
 1. Warum ist eine konsistente Namensgebung und Schreibweise wichtig?
 2. Würdest du den Namen eines `Controls` mit einem Groß- oder Kleinbuchstaben beginnen und warum?
 
+Meine Meinung zu diesem Thema findest du [hier](https://github.com/LernMoment/community-fragen/issues/7).
+
 ## Allgemeine Fragen
 
 ### ALL-1: Kann ich eine Konsolenanwendung von einer externen Festplatte starten?
