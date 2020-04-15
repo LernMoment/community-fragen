@@ -134,8 +134,8 @@ Mit diesem Beispiel erkläre ich im [Kurs](https://www.lernmoment.de/einstieg-cs
 Kannst du Thomas Frage beantworten? Wie ist es mit folgenden Bonus-Fragen?
 
 **Bonus:** 
-1.) Wie könnte man den Inhalt von `Console.WriteLine` noch schreiben? Ist das deiner Meinung nach besser verständlich?
-2.) Wie heißt der Fachbegriff wenn vor den Hochkommata eines `string` ein `$` Zeichen verwendet wird?
+1. Wie könnte man den Inhalt von `Console.WriteLine` noch schreiben? Ist das deiner Meinung nach besser verständlich?
+2. Wie heißt der Fachbegriff wenn vor den Hochkommata eines `string` ein `$` Zeichen verwendet wird?
 
 **Wichtig:** Probiere den Quellcode oben und den für deine Antwort in einem kleinen Testprojekt aus bevor du antwortest!
 
