@@ -115,6 +115,32 @@ Der Fragende lernt gerade einiges zum Thema `string` und möchte mithilfe des *A
 
 Meine Antwort dazu findest du [hier](https://github.com/LernMoment/community-fragen/issues/5);
 
+### SYN-2: Was bedeutet `{0}` beim `Console.WriteLine`?
+
+> Hallo Jan! Erstmal, der Kurs gefällt mir super. Aber nun zu Frage,
+> Warum hast bei "Das Resultat {0}" die 0 da reingeschrieben mit den Klammern. - [Thomas im Kurs "Einstieg in C#"](https://www.lernmoment.de/einstieg-csharp/)
+
+Hier der Quellcode auf den Thomas sich bezieht:
+
+```csharp
+string ersterText = "Zehn";
+string zweiterText = "10";
+string summe = ersterText + "+" + zweiterText;
+Console.WriteLine("Das Resultat {0}", summe);
+```
+
+Mit diesem Beispiel erkläre ich im [Kurs](https://www.lernmoment.de/einstieg-csharp/), dass mit dem Datentyp `string` nicht gerechnet werden kann, aber das trotzdem der `+` Operator einen Sinn macht.
+
+Kannst du Thomas Frage beantworten? Wie ist es mit folgenden Bonus-Fragen?
+
+**Bonus:** 
+1.) Wie könnte man den Inhalt von `Console.WriteLine` noch schreiben? Ist das deiner Meinung nach besser verständlich?
+2.) Wie heißt der Fachbegriff wenn vor den Hochkommata eines `string` ein `$` Zeichen verwendet wird?
+
+**Wichtig:** Probiere den Quellcode oben und den für deine Antwort in einem kleinen Testprojekt aus bevor du antwortest!
+
+Meine Antwort dazu findest du [hier](https://github.com/LernMoment/community-fragen/issues/8).
+
 ## Fragen zum Thema Testen
 
 ### TES-1: Wie sollten private Methoden einer Klasse getestet werden?
